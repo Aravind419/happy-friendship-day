@@ -121,7 +121,7 @@ footer p {
     100% { background-color: #ffcccc; }
 }
 
-/* #music-toggle {
+#music-toggle {
     background-color: #00eaff;
     border: none;
     padding: 10px 20px;
@@ -136,4 +136,4 @@ footer p {
 
 #music-toggle:hover {
     background-color: #00ff00;
-} */
+}
